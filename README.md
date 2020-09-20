@@ -7,7 +7,7 @@
 - Use of **React Hooks** and creating custom Hooks
 - Use of **local storage** to save the work done.
 
-Output can be viewed [**here**](https://mohankumar27.github.io/github-jobs/)
+Output can be viewed [**here**](https://mohankumar27.github.io/codepen-clone/)
 
 ## screenshots
 
