@@ -11,7 +11,7 @@ import { faCompressAlt, faExpandAlt } from "@fortawesome/free-solid-svg-icons";
 function Editor({ displayName, value, language, onChange }) {
   const [open, setOpen] = useState(true);
 
-  const changeHandler = (value) => {
+  const changeHandler = (editor, data, value) => {
     onChange(value);
   };
 
